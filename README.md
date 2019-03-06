@@ -3,7 +3,7 @@
 Create new site and up-date rework it with as team in github platform.
 
 ## Site
-We made this project for creat , design , up-date weakly our site.
+We made this project for create , design , up-date weakly our site.
 
 
 ## Coding
