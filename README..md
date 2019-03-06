@@ -1,15 +1,15 @@
-NEW SITE
+##NEW SITE
 
 Create new site and up-date other people in github platform.
 
-#Site
+##Site
 We made this project for creat , disign , up-date weakly our site.
 
 
-#Coding
-We use basic HTML , CSS , JAVASCRIPT coding for this project.
+##Coding
+We use basic **HTML** , **CSS** , **JAVASCRIPT** coding for this project.
 
-you can find tutorials.
+you can find the ["tutorials"](https://www.w3schools.com/)
 
 
 #Updating 
