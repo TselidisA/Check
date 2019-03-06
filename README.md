@@ -13,6 +13,6 @@ You can find the [tutorials](https://www.w3schools.com/) here.
 
 
 ## Updating 
-Our goal is to end up this project with a site which works correctly.
+Our goal is making this site works correctly.
 
 So we will make new versions of this site for fix old bugs, add extra filled , use extra coding etc.
