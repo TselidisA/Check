@@ -9,7 +9,7 @@ We made this project for creat , design , up-date weakly our site.
 ## Coding
 We use basic **HTML** , **CSS** , **JAVASCRIPT** coding for this project.
 
-You can find the ["tutorials"](https://www.w3schools.com/) here.
+You can find the [tutorials](https://www.w3schools.com/) here.
 
 
 ## Updating 
